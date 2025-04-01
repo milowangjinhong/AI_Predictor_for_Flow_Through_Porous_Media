@@ -1,0 +1,57 @@
+# Compiled source 
+threedns*
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.mod
+*.out
+
+# python files
+*.pyc
+__pycache*
+.vscode/*
+
+# Matlab files #
+#*.m
+#*.mat
+
+# source code
+#*.f
+#*.f90
+
+# Packages #
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Repo
+/archive/*
+/data/*/*
+*.pt
+*.pth
+*.onnx
+*.mat
+*wandb*
+data_processed
