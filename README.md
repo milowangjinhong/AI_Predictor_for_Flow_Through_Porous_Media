@@ -1,6 +1,11 @@
 # AI Predictor for Flow Through Porous Media
 
-This is a repository created for data-driven prediction of flow through porous media
+This is a repository created for data-driven prediction of flow through porous media. 
+
+Three architectures are implemented and tested for the application:
+- Convolutional Auto-Encoder
+- U-NET
+- Fourier Neural Operator
 
 ---
 
@@ -8,7 +13,7 @@ This is a repository created for data-driven prediction of flow through porous m
 
 ### Clone the repo
 ```
-git clone LINK
+git clone https://github.com/milowangjinhong/AI_Predictor_for_Flow_Through_Porous_Media.git 
 ```
 
 ### Install dependencies
